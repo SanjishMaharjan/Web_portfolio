@@ -1,1 +1,2 @@
-# BinayShaw.github.io
+ sanjishmaharjan.github.io. 
+ sanjishmaharjan.com.np
