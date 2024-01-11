@@ -1,0 +1,48 @@
+# Ignore compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore dependencies
+/node_modules
+
+# Ignore production build
+/build
+/dist
+
+# Ignore environment configuration
+.env
+
+# Ignore logs and databases
+*.log
+*.sqlite
+*.db
+
+# Ignore generated files
+*.log
+*.pot
+*.potx
+*.ppa
+*.ppam
+*.pps
+*.ppsm
+*.ppsx
+*.ppt
+*.pptm
+*.pptx
+*.sldm
+*.sldx
+*.tmp
+*.xlk
+*.xlm
+*.xls
+*.xlsb
+*.xlsm
+*.xlsx
+*.xlt
+*.xltm
+*.xltx
+*.xlw
