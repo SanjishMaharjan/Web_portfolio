@@ -19,7 +19,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #0BCEAF;
+  --primary: #0b73ce;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -68,9 +68,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #6c757d;
+  color: #babfc3;
   text-align: left;
-  background-color: #f9feff;
+  background-color: #131834;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -166,7 +166,7 @@ sup {
 }
 
 a {
-  color: #0BCEAF;
+  color: #0b73ce;
   text-decoration: none;
   background-color: transparent;
 }
@@ -388,7 +388,7 @@ h6,
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
-  color: #343a40;
+  color: #a0abb6;
 }
 
 h1,
